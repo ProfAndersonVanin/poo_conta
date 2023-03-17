@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\projeto_conta\bin\Debug\net6.0\projeto_conta.exe
+C:\Users\LAB4\Desktop\projeto_conta\bin\Debug\net6.0\projeto_conta.deps.json
+C:\Users\LAB4\Desktop\projeto_conta\bin\Debug\net6.0\projeto_conta.runtimeconfig.json
+C:\Users\LAB4\Desktop\projeto_conta\bin\Debug\net6.0\projeto_conta.dll
+C:\Users\LAB4\Desktop\projeto_conta\bin\Debug\net6.0\projeto_conta.pdb
+C:\Users\LAB4\Desktop\projeto_conta\obj\Debug\net6.0\projeto_conta.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\projeto_conta\obj\Debug\net6.0\projeto_conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\projeto_conta\obj\Debug\net6.0\projeto_conta.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\projeto_conta\obj\Debug\net6.0\projeto_conta.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\projeto_conta\obj\Debug\net6.0\projeto_conta.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\projeto_conta\obj\Debug\net6.0\projeto_conta.dll
+C:\Users\LAB4\Desktop\projeto_conta\obj\Debug\net6.0\refint\projeto_conta.dll
+C:\Users\LAB4\Desktop\projeto_conta\obj\Debug\net6.0\projeto_conta.pdb
+C:\Users\LAB4\Desktop\projeto_conta\obj\Debug\net6.0\projeto_conta.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\projeto_conta\obj\Debug\net6.0\ref\projeto_conta.dll
